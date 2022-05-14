@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/bagger/static/js/app.8ad0cf8d.chunk.js",
+    "app.js.map": "/bagger/static/js/app.8ad0cf8d.chunk.js.map",
+    "runtime~app.js": "/bagger/static/js/runtime~app.dda5e935.js",
+    "runtime~app.js.map": "/bagger/static/js/runtime~app.dda5e935.js.map",
+    "static/js/2.efb05f21.chunk.js": "/bagger/static/js/2.efb05f21.chunk.js",
+    "static/js/2.efb05f21.chunk.js.map": "/bagger/static/js/2.efb05f21.chunk.js.map",
+    "favicon-16.png": "/bagger/favicon-16.png",
+    "favicon-32.png": "/bagger/favicon-32.png",
+    "favicon.ico": "/bagger/favicon.ico",
+    "index.html": "/bagger/index.html",
+    "manifest.json": "/bagger/manifest.json",
+    "serve.json": "/bagger/serve.json",
+    "static/js/2.efb05f21.chunk.js.LICENSE.txt": "/bagger/static/js/2.efb05f21.chunk.js.LICENSE.txt",
+    "static/media/TheBaggerLight.png": "/bagger/static/media/TheBaggerLight.1a8c59ad.png",
+    "static/media/TwangStudios.png": "/bagger/static/media/TwangStudios.5209b54d.png",
+    "static/media/lilwizard.png": "/bagger/static/media/lilwizard.c57338c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.dda5e935.js",
+    "static/js/2.efb05f21.chunk.js",
+    "static/js/app.8ad0cf8d.chunk.js"
+  ]
+}
